@@ -25,3 +25,4 @@ end
 #position_taken
 
 #move
+def turn(board)
